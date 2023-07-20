@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lararachidi
-- 👀 I’m interested in data science and data engineering
-- 🌱 I'm experienced with Python and SQL-speaking backends
+
 
 <!---
 lararachidi/lararachidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
